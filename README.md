@@ -14,4 +14,4 @@ For each country, the script executes the following key steps:
 4. Estimates an initial OLS linear regression using lagged values, Fourier components, and economic/energy covariates 
 5. Analyzes the baseline model's residuals using autocorrelation, partial autocorrelation, and ARIMASOC 
 6. Computes predicted values, extracts residuals, and evaluates whether the residuals approximate white noise using Portmanteau tests and correlograms
-7. Plots the actual values of against fitted/predicted values to visually inspect model accuracy.
+7. Plots the actual values of against fitted/predicted values to visually inspect model accuracy
